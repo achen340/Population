@@ -8,10 +8,10 @@
 public class City implements Comparable<City> {
 	
 	// fields
-	private String state;
-	private String name;
-	private String designation;
-	private int population;
+	private String state; //The state the city is located in
+	private String name; //The name of the city 
+	private String designation; //The designation of the city
+	private int population; //The city's population
 	
 	
 	// constructor
